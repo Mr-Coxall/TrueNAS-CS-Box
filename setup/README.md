@@ -21,7 +21,7 @@ Once you can login headless from another computer on network:
   - "Datasets"
   - under the "storage" pool just created, add "datasets" 
 
-- you "might" want to change to a static IP address, so it does not chnage on you!
+- latter on you "might" want to change to a static IP address, so it does not chnage on you!
   - "Networking", select your NIC, the pencil, unselect "DHCP"
   - select "Aliases, Add" and enter static IP address you know is free and you want to use
     - xxx.xxx.xxx.xxx / 24
