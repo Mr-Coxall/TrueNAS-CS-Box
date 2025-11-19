@@ -1,5 +1,17 @@
 # Setup
 
+## BIOS
+
+- ensure "secure boot" is off for TrueNAS Scale
+
+## Load TrueNAS Scale
+
+- ensure you remember the PASSWORD!
+- load OS on the small drive
+  - keep the 2 large drives for mirrored storage 
+
+## Startup
+
 Once you can login headless from another computer on network:
 
 - change the port from 80 & 443, so that these can be used by a local web server:
