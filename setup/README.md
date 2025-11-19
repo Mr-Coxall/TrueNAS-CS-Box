@@ -17,7 +17,8 @@ Once you can login headless from another computer on network:
 
 - change the port from 80 & 443, so that these can be used by a local web server:
   - "System, General Settings, GUI: Settings"
-  - change to 81 & 444 
+  - change to 81 & 444
+      - you will need to re-login again after saving changes 
 - wipe drives:
   - Storage, Disks
   - select the 2 storage HDs (do not select the boot drive!)
