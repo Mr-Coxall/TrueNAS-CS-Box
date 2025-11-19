@@ -7,6 +7,7 @@
 ## Load TrueNAS Scale
 
 - ensure you remember the PASSWORD!
+- login: "truenas_admin"
 - load OS on the small drive
   - keep the 2 large drives for mirrored storage 
 
