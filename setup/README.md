@@ -42,3 +42,9 @@ Once you can login headless from another computer on network:
   - enter gate for your network (or maybe you can skip!)
   - test changes and then reopen TrueNAS from new static IP address
   - you might want to enter in your local network DNS and gateway
+ 
+## Apps
+
+- select "Apps"
+- click "Configuration"
+  - "Pool" and pick the pool created ("storage")
