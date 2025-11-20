@@ -11,3 +11,8 @@
 
 - will be following this videos process on how to create and manage apps
   - https://www.youtube.com/watch?v=gPL7_tzsJO8&list=PLwcxrRo-VwS13LFkFi1npGRUqiQplfdiX
+
+## Check "truenas_admin" user
+
+- in "system", "shell" run
+  - "id", to see what user you are and your IDs
